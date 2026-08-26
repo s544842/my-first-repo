@@ -1,2 +1,6 @@
 # my-first-repo
-it's a LIE this isn't my first repo
+### Logan Masters
+
+---
+
+My favorite actor is Crash Bandicoot.
